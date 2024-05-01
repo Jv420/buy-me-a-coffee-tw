@@ -10,7 +10,7 @@ To use the Buy Me A Coffee app, you'll need to clone this repository, install de
 
 To get started, clone the repository to your local machine:
 ```
-git clone https://github.com/Jv420/youtube-buy-me-a-coffee.git
+git clone https://github.com/thirdweb-example/youtube-buy-me-a-coffee.git
 ```
 ```
 cd youtube-buy-me-a-coffee
@@ -18,7 +18,7 @@ cd youtube-buy-me-a-coffee
 
 ### Buy Me A Coffee smart contract
 Follow to YouTube tutorial on creating your own smart contract or deploy here:
-[Buy Me A Coffee smart contract](https://thirdweb.com/polygon/0x86dC368776538eC5C2c4A8Cb68dFBC0A338CC664)
+[Buy Me A Coffee smart contract](https://thirdweb.com/0xEe29620D0c544F00385032dfCd3Da3f99Affb8B2/BuyMeACoffee)
 
 ### Installing Dependencies
 

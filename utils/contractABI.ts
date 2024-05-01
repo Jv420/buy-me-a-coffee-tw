@@ -57,5 +57,12 @@ export const contractABI = [
         }
       ],
       "stateMutability": "view"
+    },
+    {
+      "type": "function",
+      "name": "withdrawTips",
+      "inputs": [],
+      "outputs": [],
+      "stateMutability": "nonpayable"
     }
 ] as const;
